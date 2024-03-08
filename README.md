@@ -21,7 +21,9 @@ git clone https://github.com/lokesh-jonna/Password.git
 
 - Go to the directory
 - Run the index.html file
+- Select password requirements like length, uppercase, digits etc
 - Start Calculating!!
+
 
 
 <br>
