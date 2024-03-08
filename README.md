@@ -2,7 +2,7 @@
 
 <p>This app helps to create strong random passwords which can be easily used during authentication.</p>
 
-<h3>Technologies</h3>
+<h3>Tools</h3>
 <ul>
   <li>HTML5</li>
   <li>CSS3</li>
