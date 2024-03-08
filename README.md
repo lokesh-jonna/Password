@@ -27,7 +27,9 @@ git clone https://github.com/lokesh-jonna/Password.git
 
 
 <br>
+## Demo
 
+Visit [https://lokesh-jonna.github.io/Password/]
 ## Feel free to use the code
 
 
